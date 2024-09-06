@@ -1,4 +1,4 @@
-# Local-file-sharing-app-from-desktop-to-your-local-device
+# File-Transfer-Application
 # Local Web Server with QR Code Access
 
 This Python script sets up a basic HTTP web server on your local machine and generates a QR code that can be scanned to access the server. It serves the files located on your desktop, making them accessible to other devices on the same network.
@@ -16,7 +16,7 @@ This Python script sets up a basic HTTP web server on your local machine and gen
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/HarbirSinghSandhu/File-Transfer-Application/tree/main.git
+    git clone https://github.com/HarbirSinghSandhu/File-Transfer-Application.git
     ```
 2. Navigate to the project directory:
     ```bash
